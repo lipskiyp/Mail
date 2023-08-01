@@ -1,7 +1,7 @@
 # Mail
 CS50w Project 3: JavaScript Front-End For Email Client
 
-The app let's users view different mailboxes (Inbox/Sent/Archive), archive emails, as well as compose, send and reply to emails via API - all implemented on a single html template using JavaScript. 
+The app let's users view different mailboxes (Inbox/Sent/Archive), archive emails, as well as compose, send and reply to emails via API - all implemented on a single html template with JavaScript. 
 
 ### Specification:
 <https://cs50.harvard.edu/web/2020/projects/3/mail/>
